@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "username": "postgres",
+        "password": "admin",
+        "database": "nota_fiscal",
+        "host": "localhost",
+        "dialect": "postgres"
+    }
+}
